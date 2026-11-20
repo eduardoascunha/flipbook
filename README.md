@@ -1,4 +1,4 @@
-# flipbook
+# flipbook - pt-pt
 
 Aplicação de terminal para registar compras e vendas, com os dados numa base de dados SQLite local.
 
@@ -31,7 +31,7 @@ flipbook restore <ficheiro.json>
 
 ----
 
-# flipbook
+# flipbook - english
 
 Terminal app to track purchases and sales, with the data in a local SQLite database.
 
